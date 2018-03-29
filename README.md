@@ -1,0 +1,2 @@
+# autocq
+Cq Auto Script
